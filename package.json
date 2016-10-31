@@ -1,0 +1,23 @@
+{
+    "name": "grunt-agility-policy-pusher",
+    "version": "1.0.0",
+    "description": "Made for local policy development",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ServiceMesh/support/tree/master/grunt-agility-policy-pusher"
+    },
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "devDependencies": {
+        "grunt": "^1.0.1",
+        "grunt-contrib-clean": "^1.0.0",
+        "grunt-contrib-watch": "^1.0.0",
+        "grunt-jsbeautifier": "^0.2.13"
+    },
+    "keywords": [
+        "gruntplugin"
+    ],
+    "author": "Will Garvey <wilgarv@gmail.com>",
+    "license": "MIT"
+}
