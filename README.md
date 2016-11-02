@@ -1,4 +1,4 @@
-# grunt-agility-policy-pusher
+# csc-agility-grunt-policy-pusher
 
 > Made for local Agility Platform policy development
 
@@ -8,7 +8,7 @@ This plugin requires Grunt `~0.4.5`
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install grunt-agility-policy-pusher --save-dev
+npm install csc-agility-grunt-policy-pusher --save-dev
 ```
 
 ```shell
@@ -18,7 +18,7 @@ Install Nodejs.
 Install Grunt globally: 'npm install -g grunt-cli'
 Create a new local grunt project folder.
 In the new folder install grunt locally: 'npm install grunt'
-Copy all contents to node_modules\grunt-agility-policy-pusher in the local grunt project folder.
+Copy all contents to node_modules\csc-agility-grunt-policy-pusher in the local grunt project folder.
 Copy Gruntfile.js and package.json to the local grunt project folder.
 Install dependencies based on the project folder: 'npm install'.
 Edit the agility_config in Gruntfile.js. See below for more config information.
