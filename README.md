@@ -1,4 +1,4 @@
-# csc-agility-grunt-policy-pusher
+# CSC Agility Platform Policy Pusher – for Grunt
 
 > Made for local Agility Platform policy development
 
