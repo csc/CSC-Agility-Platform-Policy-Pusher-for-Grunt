@@ -1,6 +1,6 @@
 # CSC Agility Platform Policy Pusher – for Grunt
 
-> Made for local Agility Platform policy development
+> Downloadable open-source software for developing cloud governance policies used with cloud management software platforms
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
